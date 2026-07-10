@@ -41,4 +41,5 @@ Replace `<group>` with the name of your TShock group.
 ## Important behavior
 
 Journey Mode is enabled for the player's current session by sending the required server-side-character WorldInfo state and changing that player's difficulty. Items and other character changes made while this mode is active should not be treated as permanently saved character data.
+
 <img width="1495" height="233" alt="image" src="https://github.com/user-attachments/assets/29f0dbd0-9be2-4bd7-aea6-ef57f34bf0fa" />

@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+artifacts/
+
+# Packages and generated files
+*.nupkg
+*.snupkg
+TestResults/
+coverage/
+
+# Operating system files
+.DS_Store
+Thumbs.db
